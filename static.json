@@ -1,7 +1,8 @@
 {
 "headers": {
   "/*": {
-    "X-Author":"sollaryn"
+    "X-Author":"sollaryn",
+    "Access-Control-Allow-Origin":"*"
     }
   }
 
